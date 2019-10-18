@@ -1,0 +1,1 @@
+_this.$set(_this.list,lng-1,temp );
